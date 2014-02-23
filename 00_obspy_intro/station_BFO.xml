@@ -6,11 +6,11 @@
  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.0.11</Module>
  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?network=II&amp;level=response&amp;station=BFO&amp;starttime=2011-03-11T05%3A46%3A13.000000&amp;endtime=2011-03-11T05%3A46%3A33.000000&amp;channel=BH%2A</ModuleURI>
  <Created>2014-02-17T15:52:25</Created>
- <Network code="II" startDate="1986-01-01T00:00:00" endDate="2500-12-12T23:59:59" restrictedStatus="open">
+ <Network code="II" startDate="1986-01-01T00:00:00" endDate="2020-12-12T23:59:59" restrictedStatus="open">
   <Description>Global Seismograph Network (GSN - IRIS/IDA)</Description>
   <TotalNumberStations>50</TotalNumberStations>
   <SelectedNumberStations>1</SelectedNumberStations>
-  <Station code="BFO" startDate="1996-05-29T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open" alternateNetworkCodes="_GSN,_STS-1,.UNRESTRICTED,_FDSN-ALL,_REALTIME,_GSN-BROADBAND">
+  <Station code="BFO" startDate="1996-05-29T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open" alternateNetworkCodes="_GSN,_STS-1,.UNRESTRICTED,_FDSN-ALL,_REALTIME,_GSN-BROADBAND">
    <Comment>
     <Value>Day contains positive leap second (86401 s/day).</Value>
     <BeginEffectiveTime>1997-06-30T00:00:00</BeginEffectiveTime>

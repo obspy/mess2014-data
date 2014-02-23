@@ -6,11 +6,11 @@
  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.0.11</Module>
  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?network=CN&amp;level=response&amp;station=YK%2A&amp;starttime=2012-08-14T01%3A30%3A00.000000&amp;endtime=2012-08-14T04%3A30%3A00.000000&amp;channel=SHZ</ModuleURI>
  <Created>2014-02-13T17:31:55</Created>
- <Network code="CN" startDate="1982-01-01T00:00:00" endDate="2500-12-12T23:59:59" restrictedStatus="open">
+ <Network code="CN" startDate="1982-01-01T00:00:00" endDate="2020-12-12T23:59:59" restrictedStatus="open">
   <Description>Canadian National Seismograph Network</Description>
   <TotalNumberStations>161</TotalNumberStations>
   <SelectedNumberStations>18</SelectedNumberStations>
-  <Station code="YKB0" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB0" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.6059</Latitude>
    <Longitude>-114.606</Longitude>
    <Elevation>194.2</Elevation>
@@ -20,7 +20,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -680,7 +680,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB1" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB1" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4023</Latitude>
    <Longitude>-114.6063</Longitude>
    <Elevation>145.1</Elevation>
@@ -690,7 +690,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -1350,7 +1350,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB2" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB2" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4247</Latitude>
    <Longitude>-114.6063</Longitude>
    <Elevation>150.3</Elevation>
@@ -1360,7 +1360,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -2020,7 +2020,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB3" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB3" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4485</Latitude>
    <Longitude>-114.6061</Longitude>
    <Elevation>158.2</Elevation>
@@ -2030,7 +2030,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -2690,7 +2690,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB4" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB4" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4709</Latitude>
    <Longitude>-114.6058</Longitude>
    <Elevation>163.8</Elevation>
@@ -2700,7 +2700,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -3360,7 +3360,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB6" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB6" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.5164</Latitude>
    <Longitude>-114.6057</Longitude>
    <Elevation>173.6</Elevation>
@@ -3370,7 +3370,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -4030,7 +4030,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB7" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB7" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.5389</Latitude>
    <Longitude>-114.6061</Longitude>
    <Elevation>176.6</Elevation>
@@ -4040,7 +4040,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -4700,7 +4700,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB8" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB8" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.5615</Latitude>
    <Longitude>-114.6055</Longitude>
    <Elevation>171.0</Elevation>
@@ -4710,7 +4710,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -5370,7 +5370,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKB9" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKB9" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.583</Latitude>
    <Longitude>-114.6039</Longitude>
    <Elevation>213.1</Elevation>
@@ -5380,7 +5380,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:00:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -6040,7 +6040,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR1" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR1" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4928</Latitude>
    <Longitude>-114.9445</Longitude>
    <Elevation>141.1</Elevation>
@@ -6050,7 +6050,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -6710,7 +6710,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR2" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR2" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4928</Latitude>
    <Longitude>-114.8959</Longitude>
    <Elevation>145.0</Elevation>
@@ -6720,7 +6720,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -7380,7 +7380,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR3" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR3" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4929</Latitude>
    <Longitude>-114.8476</Longitude>
    <Elevation>146.2</Elevation>
@@ -7390,7 +7390,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -8050,7 +8050,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR4" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR4" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4927</Latitude>
    <Longitude>-114.7998</Longitude>
    <Elevation>148.9</Elevation>
@@ -8060,7 +8060,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -8720,7 +8720,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR5" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR5" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4932</Latitude>
    <Longitude>-114.7504</Longitude>
    <Elevation>154.2</Elevation>
@@ -8730,7 +8730,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -9390,7 +9390,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR6" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR6" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4932</Latitude>
    <Longitude>-114.702</Longitude>
    <Elevation>161.0</Elevation>
@@ -9400,7 +9400,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -10060,7 +10060,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR7" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR7" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4932</Latitude>
    <Longitude>-114.6544</Longitude>
    <Elevation>167.5</Elevation>
@@ -10070,7 +10070,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -10730,7 +10730,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR8" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR8" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.4931</Latitude>
    <Longitude>-114.6062</Longitude>
    <Elevation>166.7</Elevation>
@@ -10740,7 +10740,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>
@@ -11400,7 +11400,7 @@
     </Response>
    </Channel>
   </Station>
-  <Station code="YKR9" startDate="1989-01-25T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open">
+  <Station code="YKR9" startDate="1989-01-25T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open">
    <Latitude>62.493</Latitude>
    <Longitude>-114.5565</Longitude>
    <Elevation>171.7</Elevation>
@@ -11410,7 +11410,7 @@
    <CreationDate>1989-01-25T00:00:00</CreationDate>
    <TotalNumberChannels>3</TotalNumberChannels>
    <SelectedNumberChannels>1</SelectedNumberChannels>
-   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2599-12-31T23:59:59" code="SHZ">
+   <Channel locationCode="  " startDate="1989-01-25T00:01:00" restrictedStatus="open" endDate="2020-12-31T23:59:59" code="SHZ">
     <Comment>
      <Value>107 60</Value>
     </Comment>

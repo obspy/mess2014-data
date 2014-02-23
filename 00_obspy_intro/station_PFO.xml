@@ -6,11 +6,11 @@
  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.0.11</Module>
  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?network=II&amp;level=response&amp;station=PFO&amp;starttime=2011-03-11T05%3A46%3A13.000000&amp;endtime=2011-03-11T05%3A46%3A33.000000&amp;channel=BHZ</ModuleURI>
  <Created>2014-02-17T15:43:45</Created>
- <Network code="II" startDate="1986-01-01T00:00:00" endDate="2500-12-12T23:59:59" restrictedStatus="open">
+ <Network code="II" startDate="1986-01-01T00:00:00" endDate="2020-12-12T23:59:59" restrictedStatus="open">
   <Description>Global Seismograph Network (GSN - IRIS/IDA)</Description>
   <TotalNumberStations>50</TotalNumberStations>
   <SelectedNumberStations>1</SelectedNumberStations>
-  <Station code="PFO" startDate="2006-07-13T00:00:00" endDate="2599-12-31T23:59:59" restrictedStatus="open" alternateNetworkCodes=".EARTHSCOPE,_ANSS,.UNRESTRICTED,_CARIBE-EWS,_GSN-BROADBAND,_US-REF,_GSN,_STS-1,_ANSS-BB,_FDSN,_FDSN-ALL,_US-ALL,_REALTIME">
+  <Station code="PFO" startDate="2006-07-13T00:00:00" endDate="2020-12-31T23:59:59" restrictedStatus="open" alternateNetworkCodes=".EARTHSCOPE,_ANSS,.UNRESTRICTED,_CARIBE-EWS,_GSN-BROADBAND,_US-REF,_GSN,_STS-1,_ANSS-BB,_FDSN,_FDSN-ALL,_US-ALL,_REALTIME">
    <Latitude>33.6107</Latitude>
    <Longitude>-116.4555</Longitude>
    <Elevation>1280.0</Elevation>
